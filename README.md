@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mhenga-Gustavo
+- 👋 Hi, I’m @Andrew-Makau
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
